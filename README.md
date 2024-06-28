@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veerabramhachary
 - 👀 I’m interested in html,css, javascript, python
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
